@@ -1,0 +1,27 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "luke.poskitt@gmail.com",
+    "longName": "watchface",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "characterRegex": "[0-9:.]",
+                "file": "fonts/angleblock",
+                "name": "FONT_ANGLEBLOCK_24",
+                "targetPlatforms": null,
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "watchface",
+    "uuid": "40b4c6a3-3993-41e9-8b1b-20068915bf67",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
